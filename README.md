@@ -10,8 +10,8 @@ this is an android app for the marmot robot briefly marbot
 on action
 
 
-<img src="imgs/img1.jpg" alt="Drawing" style="width="200" height="200""/>
+<img src="imgs/img1.jpg" alt="Drawing" style="width="300" height="300""/>
 
-<img src="imgs/img2.jpg" alt="Drawing" style="width="200" height="200""/>
+<img src="imgs/img2.jpg" alt="Drawing" style="width="300" height="300""/>
 
 
