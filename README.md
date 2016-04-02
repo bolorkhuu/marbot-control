@@ -12,6 +12,6 @@ on action
 
 <img src="imgs/img1.jpg" alt="Drawing" style="width="300" height="300""/>
 
-<img src="imgs/img2.jpg" alt="Drawing" style="width="300" height="300""/>
+<img src="imgs/img2.jpg" alt="Drawing" style="width="400" height="400""/>
 
 
