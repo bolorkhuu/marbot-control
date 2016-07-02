@@ -51,9 +51,9 @@ public class MainActivity extends ActionBarActivity implements BluetoothListener
                         // Add the name and address to an array adapter to show in a ListView
                         String info = device.getName() + " " + device.getAddress();
                         System.out.println(info);
-                        if (device.getAddress().equals("98:D3:37:00:83:11")) {
-                            hc06 = device;
-                        }
+                        hc06 = device;
+//                        if (device.getAddress().equals("98:D3:37:00:83:11")) {
+//                        }
                     }
                     if (hc06 == null) {
                         System.out.println("HC06 not found.");
