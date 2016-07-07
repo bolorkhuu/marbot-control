@@ -15,7 +15,7 @@ import android.widget.TextView;
 import com.google.android.gms.appindexing.Action;
 import com.google.android.gms.appindexing.AppIndex;
 import com.google.android.gms.common.api.GoogleApiClient;
-
+import android.media.MediaPlayer;
 import java.io.IOException;
 import java.util.Set;
 import java.util.UUID;
@@ -24,6 +24,12 @@ public class MainActivity extends ActionBarActivity implements BluetoothListener
 
     private BluetoothThread btThread;
     private TextView status;
+
+    protected void onStart() {
+        super.onStart();
+        MediaPlayer mp = MediaPlayer.create(this, R.raw.sound_file_1);
+        mp.start();
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
