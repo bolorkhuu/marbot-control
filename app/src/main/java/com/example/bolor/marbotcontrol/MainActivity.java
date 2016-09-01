@@ -27,8 +27,6 @@ public class MainActivity extends ActionBarActivity implements BluetoothListener
 
     protected void onStart() {
         super.onStart();
-        MediaPlayer mp = MediaPlayer.create(this, R.raw.sound_file_1);
-        mp.start();
     }
 
     @Override
@@ -114,6 +112,10 @@ public class MainActivity extends ActionBarActivity implements BluetoothListener
     public void onStop(View view){
         if(btThread!=null)
             btThread.write("o");
+    }
+    public void onNan(View view){
+        if(btThread!=null)
+            btThread.write("k");
     }
 
     @Override
