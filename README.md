@@ -1,6 +1,6 @@
 # marbot-control
 
-this is an android app for the marmot robot briefly marbot
+this is a android app for remote control of the marmot robot briefly marbot
 
 **Contributors**:
 
