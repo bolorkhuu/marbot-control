@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/bolor/AndroidStudioProjects/MarbotControl/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/bolor/AndroidStudioProjects/MarbotControl/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/bolor/AndroidStudioProjects/MarbotControl/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/bolor/AndroidStudioProjects/MarbotControl/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/bolor/AndroidStudioProjects/MarbotControl/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/bolor/AndroidStudioProjects/MarbotControl/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/bolor/AndroidStudioProjects/MarbotControl/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/bolor/AndroidStudioProjects/MarbotControl/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/bolor/AndroidStudioProjects/MarbotControl/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/bolor/AndroidStudioProjects/MarbotControl/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/bolor/AndroidStudioProjects/MarbotControl/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/bolor/AndroidStudioProjects/MarbotControl/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/res/anim/abc_fade_out.xml"
+    }
+]
