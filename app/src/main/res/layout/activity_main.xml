@@ -76,15 +76,15 @@
         android:scaleType="fitXY"
         android:onClick="onUp"
         />
-    <ImageButton
-        android:id="@+id/butNan"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:layout_alignLeft="@+id/butStop"
-        android:layout_above="@+id/butUp"
-        android:src="@drawable/stop"
-        android:scaleType="fitXY"
-        android:onClick="onNan"
-        />
+    <!--<ImageButton-->
+        <!--android:id="@+id/butNan"-->
+        <!--android:layout_width="100dp"-->
+        <!--android:layout_height="100dp"-->
+        <!--android:layout_alignLeft="@+id/butStop"-->
+        <!--android:layout_above="@+id/butUp"-->
+        <!--android:src="@drawable/stop"-->
+        <!--android:scaleType="fitXY"-->
+        <!--android:onClick="onNan"-->
+        <!--/>-->
 
 </RelativeLayout>

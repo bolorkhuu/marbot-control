@@ -113,10 +113,10 @@ public class MainActivity extends ActionBarActivity implements BluetoothListener
         if(btThread!=null)
             btThread.write("o");
     }
-    public void onNan(View view){
-        if(btThread!=null)
-            btThread.write("k");
-    }
+//    public void onNan(View view){
+//        if(btThread!=null)
+//            btThread.write("k");
+//    }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {

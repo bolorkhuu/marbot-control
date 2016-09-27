@@ -873,7 +873,7 @@ containing a value of this type.
         public static final int action_menu_divider=0x7f0c0017;
         public static final int action_menu_presenter=0x7f0c0018;
         public static final int action_mode_close_button=0x7f0c0026;
-        public static final int action_settings=0x7f0c0045;
+        public static final int action_settings=0x7f0c0044;
         public static final int activity_chooser_view_content=0x7f0c0027;
         public static final int adjust_height=0x7f0c000e;
         public static final int adjust_width=0x7f0c000d;
@@ -881,7 +881,6 @@ containing a value of this type.
         public static final int beginning=0x7f0c000a;
         public static final int butDown=0x7f0c003f;
         public static final int butLeft=0x7f0c0041;
-        public static final int butNan=0x7f0c0044;
         public static final int butRight=0x7f0c0042;
         public static final int butStop=0x7f0c0040;
         public static final int butUp=0x7f0c0043;

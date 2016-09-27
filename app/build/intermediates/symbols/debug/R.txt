@@ -267,7 +267,7 @@ int id action_context_bar 0x7f0c001f
 int id action_menu_divider 0x7f0c0017
 int id action_menu_presenter 0x7f0c0018
 int id action_mode_close_button 0x7f0c0026
-int id action_settings 0x7f0c0045
+int id action_settings 0x7f0c0044
 int id activity_chooser_view_content 0x7f0c0027
 int id adjust_height 0x7f0c000e
 int id adjust_width 0x7f0c000d
@@ -275,7 +275,6 @@ int id always 0x7f0c0011
 int id beginning 0x7f0c000a
 int id butDown 0x7f0c003f
 int id butLeft 0x7f0c0041
-int id butNan 0x7f0c0044
 int id butRight 0x7f0c0042
 int id butStop 0x7f0c0040
 int id butUp 0x7f0c0043
