@@ -4,8 +4,8 @@ this is a android app for remote control of the marmot robot briefly marbot
 
 **Contributors**:
 
-* Dimitri Henkel
-* Bolorkhuu Dariimaa
+* Dmitry
+* Bolor
 
 on action
 
